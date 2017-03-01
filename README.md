@@ -1,3 +1,11 @@
 # kaggle-house
 
-First commit
+## Dependencies
+* numpy
+* graphlab
+
+## Run
+```
+source activate gl-env
+python main.py
+```
